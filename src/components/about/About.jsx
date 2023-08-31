@@ -10,7 +10,7 @@ const About = () => {
             <div className="grid md:grid-cols-5 grid-cols-2 gap-x-4 p-5 xl:p-0">
                 <div className="grid xl:col-span-2 col-span-3 sm:col-span-1 md:col-span-2">
                     <div className="">
-                    <img className="xl:mb-[33px]" src={aboutLogo} alt="logo"/>
+                    <img className="xl:mb-[33px] mb-5" src={aboutLogo} alt="logo"/>
                     <ul>
                         <li><a className="flex items-center mb-[15px]" href="mailto: mail@yourcompany.com">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"

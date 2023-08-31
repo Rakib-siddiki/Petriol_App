@@ -7,8 +7,8 @@ import supplier4 from '../../assets/images/supplier4.jpg'
 const Gallery = () => {
     return (
         <>
-            <section className=" max-w-screen mb-[30px]">
-                <div className="w-full grid grid-cols-2 md:grid-cols-4 md:gap-5 gap-3 ">
+            <section className=" max-w-screen mb-[30px] mx-2 md:mx-0">
+                <div className="w-full grid grid-cols-2 md:grid-cols-4 md:gap-5 gap-3">
                 <img className="" src={supplier1} alt="supplier1" />
                 <img className="" src={supplier2} alt="supplier2" />
                 <img className="" src={supplier3} alt="supplier3" />
