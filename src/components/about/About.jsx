@@ -124,7 +124,7 @@ const About = () => {
                     <h3 className="font-pops font-bold text-base text-white xl:mb-[21px]">Certificate</h3>
                     <div className="xl:flex">
                         <img className="xl:mr-[5px] mb-2 xl:mb-0 " src={CerImg1} alt="..."/>
-                        <img src={CerImg2} alt="..."/>
+                        <img src={CerImg2} alt="...."/>
                     </div>
                 </div>
             </div>
