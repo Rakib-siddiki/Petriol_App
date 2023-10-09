@@ -75,7 +75,7 @@ const Navbar = () => {
                   </a>
                 </li>
               </ul>
-              <button className="bg-transparent  hover:bg-white  hover:text-primary duration-700 py-2 px-3 mt-3 md:m-0 xl:py-3 xl:px-8 border-2 border-white font-pops text-white text-base font-semibold">
+              <button className="bg-transparent rounded-sm hover:bg-white  hover:text-primary duration-700 py-2 px-3 mt-3 md:m-0 xl:py-3 xl:px-8 border-2 border-white font-pops text-white text-base font-semibold">
                 CONTACT
               </button>
             </div>

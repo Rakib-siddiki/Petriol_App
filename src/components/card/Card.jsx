@@ -7,7 +7,7 @@ const Card = () => {
             <div className="xl:flex xl:justify-between ">
                 <div className="xl:w-[339px] xl:h-[401px] bg-blog1 bg-cover bg-no-repeat bg-center  ">
                     <div className="w-full h-full bg-overlay cursor-pointer px-5  py-10 xl:p-0">
-                        <div className="w-full h-full xl:pt-[75px] xl:pl-[46px] xl:pr-11 opacity-0 hover:opacity-100 duration-500">
+                        <div className="w-full h-full xl:pt-[75px] xl:pl-[46px] xl:pr-11  md:opacity-0 hover:opacity-100 duration-500">
                             <h5 className="font-pops text-[20px] md:text-2xl  font-bold text-white xl:leading-10 sm:w-[20rem] ">lorem ipsum dolor sit amet
                                 consectetur
                                 adipiscing elit sed do
@@ -21,7 +21,7 @@ const Card = () => {
                 </div>
                 <div className="xl:w-[339px] xl:h-[401px] bg-blog2 bg-cover bg-no-repeat my-4 xl:m-0 ">
                     <div className="w-full h-full bg-overlay cursor-pointer px-5  py-10 xl:p-0">
-                        <div className="w-full h-full xl:pt-[75px] xl:pl-[46px] xl:pr-11 opacity-0 hover:opacity-100 duration-500">
+                        <div className="w-full h-full xl:pt-[75px] xl:pl-[46px] xl:pr-11 md:opacity-0 hover:opacity-100 duration-500">
                             <h5 className="font-pops text-[20px] md:text-2xl  font-bold text-white xl:leading-10 sm:w-[20rem] ">lorem ipsum dolor sit amet
                                 consectetur
                                 adipiscing elit sed do
@@ -35,7 +35,7 @@ const Card = () => {
                 </div>
                 <div className="xl:w-[339px] xl:h-[401px] bg-blog3 bg-cover bg-no-repeat bg-center ">
                     <div className="w-full h-full bg-overlay cursor-pointer px-5  py-10 xl:p-0">
-                        <div className="w-full h-full xl:pt-[75px] xl:pl-[46px] xl:pr-11 opacity-0 hover:opacity-100 duration-500">
+                        <div className="w-full h-full xl:pt-[75px] xl:pl-[46px] xl:pr-11 md:opacity-0 hover:opacity-100 duration-500">
                             <h5 className="font-pops text-[20px] md:text-2xl  font-bold text-white xl:leading-10 sm:w-[20rem] ">lorem ipsum dolor sit amet
                                 consectetur
                                 adipiscing elit sed do
